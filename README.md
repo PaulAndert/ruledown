@@ -1,6 +1,6 @@
 # Ruledown
 
-Downloads imges from your Rule34 Favorites Page. Automatically skips images already downloaded.
+Downloads images from your Rule34 Favorites Page. Automatically skips images already downloaded.
 
 # Requirement
 
